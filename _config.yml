@@ -2,14 +2,15 @@ remote_theme: pages-themes/midnight@v0.2.0
 
 title: "FujiPy: Portfolio Management Tools"
 description: "This site is intended to provide easy to use portfolio management tools including...
--portfolio tracking over time
--performance visuals
--basic fundemantal/financial metrics
--asset allocation, position size & weighting visuals
--risk analysis, rebalancing and diversification suggestions
--stress testing and Scenario Analysis
--future performance expectations and goal setting
--tax optimization and dividend estimates"
+<br> -portfolio tracking over time
+<br> -performance visuals
+<br> -basic fundemantal/financial metrics
+<br> -asset allocation, position size & weighting visuals
+<br> -risk analysis, rebalancing and diversification suggestions
+<br> -stress testing and Scenario Analysis
+<br> -future performance expectations and goal setting
+<br> -tax optimization and dividend estimates"
+<br>
 show_downloads: true # Set this to false if you don't want to show a download link.
 google_analytics: "G-K5YB2DF124" # Replace this with your actual Google Analytics tracking ID.
 
