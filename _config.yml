@@ -10,7 +10,6 @@ description: "This site is intended to provide easy to use portfolio management 
 <br> -stress testing and Scenario Analysis
 <br> -future performance expectations and goal setting
 <br> -tax optimization and dividend estimates"
-<br>
 show_downloads: true # Set this to false if you don't want to show a download link.
 google_analytics: "G-K5YB2DF124" # Replace this with your actual Google Analytics tracking ID.
 
