@@ -1,7 +1,15 @@
 remote_theme: pages-themes/midnight@v0.2.0
 
-title: "Your Site Title"
-description: "A short description of your site's purpose."
+title: "FujiPy: Portfolio Management Tools"
+description: "This site is intended to provide easy to use portfolio management tools including...
+-portfolio tracking over time
+-performance visuals
+-basic fundemantal/financial metrics
+-asset allocation, position size & weighting visuals
+-risk analysis, rebalancing and diversification suggestions
+-stress testing and Scenario Analysis
+-future performance expectations and goal setting
+-tax optimization and dividend estimates"
 show_downloads: true # Set this to false if you don't want to show a download link.
 google_analytics: "G-K5YB2DF124" # Replace this with your actual Google Analytics tracking ID.
 
