@@ -1,6 +1,6 @@
 
 
-<h1>Relevant Links: <br/><a href="https://github.com/joshmadakor1">Github Profile</a> / <a href="https://www.linkedin.com/in/joshmadakor/">Linked In</a> 
+<h1>Relevant Links: <br/><a href="https://github.com/joshmadakor1">Github Profile</a> / <a href="https://www.linkedin.com/in/maxfujimori/">Linked In</a> 
 
 <h2>👨‍💻 Python Projects:</h2>
 
