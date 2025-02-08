@@ -4,4 +4,9 @@ title: "FujiPy: Python Projects and Financial Modeling Portolio"
 description: "This site is intended to provide easy visuals and links to my finance and coding projects"
 show_downloads: true # Set this to false if you don't want to show a download link.
 google_analytics: "G-K5YB2DF124" # Replace this with your actual Google Analytics tracking ID.
-
+h1, h2, h3, p {
+  white-space: nowrap; /* Prevent wrapping of text */
+  text-align: left; /* Align text to the left */
+  overflow: hidden; /* Ensure text doesn’t overflow beyond the container */
+  text-overflow: ellipsis; /* Adds ellipsis if the text overflows */
+}
