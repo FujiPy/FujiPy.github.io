@@ -5,7 +5,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>News Article Sentiment Analyzer </b>
-  - [Scrapes, parses and scores online news articles for (pos/neg) sentiment using key-word search function](https://github.com/FujiPy/Algorithms-Practice)
+  - [Scrapes, parses and scores online news articles for (pos/neg) sentiment using key-word search function](https://github.com/FujiPy/FujiPy.github.io/blob/main/Keyword_googlesearch_sentiment_analyzer.ipynb)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
