@@ -20,3 +20,5 @@ styles:
   text-align: "left"
   overflow: "hidden"
   text-overflow: "ellipsis"
+
+include: ["assets/custom.css"]
