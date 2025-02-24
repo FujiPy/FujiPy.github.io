@@ -19,7 +19,7 @@
 ---
 ## 📈 Stock Pitch's
 ### MP Materials
-📌 [View Slides] (https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
+📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
 ---
 
 ### 🚧 More projects coming soon...
