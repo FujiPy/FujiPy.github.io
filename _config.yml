@@ -23,16 +23,11 @@ styles:
 
 include: ["assets/custom.css"]
 
-/* Increase the max width of the container */
-.wrapper {
-  max-width: 90%;  /* Default is around 740px, this makes it more flexible */
-  width: 90%;
-  margin: 0 auto;
-}
+max-width: 90%;  /* Default is around 740px, this makes it more flexible */
+width: 90%;
+margin: 0 auto;
 
-/* Adjust for larger screens */
+
 @media (min-width: 1200px) {
-  .wrapper {
     max-width: 1200px;  /* Wider content on big screens */
   }
-}
