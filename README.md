@@ -12,7 +12,8 @@
 📌 [View Notebook](https://github.com/FujiPy/FujiPy.github.io/blob/main/Keyword_googlesearch_sentiment_analyzer.ipynb)
 
 ### EDA: Graduate School Acceptance Rate Data 
-📌 [Colab Link](https://colab.research.google.com/drive/1uOIwEHC51-up8CiFGOz5P4P5Jn8rtCiz)
+📌 [Colab Link](https://colab.research.google.com/drive/1uOIwEHC51-up8CiFGOz5P4P5Jn8rtCiz)      
+                  
 📌 [Github Link]
 
 
