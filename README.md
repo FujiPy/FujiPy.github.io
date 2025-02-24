@@ -1,7 +1,7 @@
 # Max Fujimori's Portfolio
 
 ### Relevant Links  
-🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://www.linkedin.com/in/max-fujimori/) | 🔗 [LinkedIn](https://docs.google.com/document/d/1NT6Ydmdnngg8T_gO_Mcc06L559bciQC2uOTAZLOz18s/edit?usp=share_link)
+🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1NT6Ydmdnngg8T_gO_Mcc06L559bciQC2uOTAZLOz18s/edit?usp=share_link) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
 
 ---
 
