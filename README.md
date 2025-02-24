@@ -12,7 +12,6 @@
 📌 [View Notebook](https://github.com/FujiPy/FujiPy.github.io/blob/main/Keyword_googlesearch_sentiment_analyzer.ipynb)
 
 ### Analytics: Graduate School Acceptance Rate Data 
-**
 
 ---
 ## Financial Models
