@@ -23,9 +23,5 @@ styles:
 
 include: ["assets/custom.css"]
 
-max-width: 90%;  /* Default is around 740px, this makes it more flexible */
-width: 90%;
-margin: 0 auto;
-
 
   
