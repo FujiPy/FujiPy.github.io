@@ -15,8 +15,8 @@
 
 ### 🚧 More projects coming soon...
 
-**Current Focus:** Building a delta-neutral trading algorithm using SPY & VIX  
-**Skills:** Python, Data Science, Machine Learning, Algorithmic Trading  
-**Contact:** [Email](mailto:your_email@gmail.com) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
+**Current Focus:** Trading algorithms and indicators, portfolio management tools, DCF and M&A Modeling
+**Skills:** Financial research and modeling, Python and R programming, Data Analysis, Machine Learning, Algorithmic Trading  
+**Contact:** [Email](fujimorm@lafayette.edu) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
 
 ---
