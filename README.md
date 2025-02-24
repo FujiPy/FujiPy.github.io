@@ -13,7 +13,7 @@
 
 📌 [Github Link] ...
 
-### EDA: Graduate School Acceptance Chance Data
+### EDA: Graduate School Acceptance Probability Data
 📌 [Colab Link](https://colab.research.google.com/drive/1uOIwEHC51-up8CiFGOz5P4P5Jn8rtCiz)      
                   
 📌 [Github Link] ...
