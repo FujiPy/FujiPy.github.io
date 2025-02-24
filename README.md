@@ -17,6 +17,6 @@
 
 **Current Focus:** Trading algorithms and indicators, portfolio management tools, DCF and M&A Modeling
 **Skills:** Financial research and modeling, Python and R programming, Data Analysis, Machine Learning, Algorithmic Trading  
-**Contact:** [Email](fujimorm@lafayette.edu) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
+**Contact:** [Email](@mailto: fujimorm@lafayette.edu) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
 
 ---
