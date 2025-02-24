@@ -11,6 +11,14 @@
 🔍 **Scrapes, parses, and scores online news articles for positive/negative sentiment using a keyword search function.**  
 📌 [View Notebook](https://github.com/FujiPy/FujiPy.github.io/blob/main/Keyword_googlesearch_sentiment_analyzer.ipynb)
 
+### Analytics: Graduate School Acceptance Rate Data 
+**
+
+---
+## Financial Models
+
+---
+## Stock Pitch's
 ---
 
 ### 🚧 More projects coming soon...
