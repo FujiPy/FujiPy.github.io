@@ -1,4 +1,4 @@
-remote_theme: "pages-themes/cayman@v0.2.0"
+remote_theme: "pages-themes/slate@v0.2.0"
 
 title: "FujiPy: Python Projects and Financial Modeling Portfolio"
 description: >
@@ -21,7 +21,7 @@ styles:
   overflow: "hidden"
   text-overflow: "ellipsis"
 
-include: ["Assets/custom.css"]
+include: ["Assets/Assets"]
 
 
   
