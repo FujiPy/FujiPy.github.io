@@ -21,7 +21,7 @@ styles:
   overflow: "hidden"
   text-overflow: "ellipsis"
 
-include: ["Assets/github/workflows/custom.css"]
+include: ["Assets/github/workflows/Assets"]
 
  
   
