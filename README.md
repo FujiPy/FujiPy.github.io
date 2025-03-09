@@ -18,6 +18,11 @@
                   
 📌 [Github Link] ...
 
+### EDA: 2014 Washington Home Features & Price Data
+📌 [Colab Link](https://colab.research.google.com/drive/11TNGsCxGk7BHbMzgxiENt0RFmr1rh6TL#scrollTo=yXWdNbigeZMr)
+
+📌 [Github Link](https://github.com/FujiPy/DS201_Capstone_Getting_Into_Business)
+
 ### Black-Scholes Derivative Pricing Stat Arb Notes (*in progress)
 📌 [Colab link](https://colab.research.google.com/drive/1J7zux1CI5HSA0R-IVZ5fhjxYIO_4A-_f?usp=sharing)
 
@@ -32,7 +37,7 @@
 
 
 ---
-## 📈Stock Pitchs'
+## 📈Stock Pitch's
 ### MP Materials
 📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
 
