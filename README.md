@@ -23,7 +23,7 @@
 ---
 ## Financial Models
 
-###CRM DCF Model (*in progress/incomplete)
+### CRM DCF Model (*in progress/incomplete)
 📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/EZ345MU892RBs5gfgvYxSRkB3nDcEHMjVQjXR02HIioE3g?e=Lj3XHj)
 
 
