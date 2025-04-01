@@ -6,9 +6,12 @@
 ---
 
 ---
-## 📈Stock Pitch's
-### MP Materials
+## 📈Investment Club Presentations
+### MP Materials Buy Pitch
 📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
+
+### Sector Update: 
+...
 
 ## 👨‍💻 Python Projects
 
