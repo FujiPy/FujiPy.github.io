@@ -40,7 +40,7 @@
 
 📌 [Github Link](https://github.com/FujiPy/DS201_Capstone_Getting_Into_Business)
 
-### Black-Scholes Derivative Pricing Stat Arb Notes (*in progress)
+### Comparing Derivative Pricing Models & Stat Arb Notes (*in progress)
 📌 [Colab link](https://colab.research.google.com/drive/1J7zux1CI5HSA0R-IVZ5fhjxYIO_4A-_f?usp=sharing)
 
 📌 [Github Link] ...
