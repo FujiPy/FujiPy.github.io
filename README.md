@@ -15,6 +15,9 @@
 
 ## 👨‍💻 Python Projects
 
+### Lagging (high timeframe) & Live Rolling (short TF, with live free API data) SPY Regime Classification
+📌 [Colab Link](https://colab.research.google.com/drive/1MiTsEXMZTPUgT_tEIwbfGPbp9wO-pwhc#scrollTo=TlO_M9fLFn4L)
+
 ### News Article Sentiment Analyzer  
 🔍 **Scrapes, parses, and scores online news articles for positive/negative sentiment using a keyword search function.**  
 
@@ -22,7 +25,7 @@
 
 📌 [Github Link] ...
 
-### Stochastic Volatility Inspired (SVI) Implied Vol Curve/Surface
+### Stochastic Volatility Inspired (SVI) Implied Vol Curve/Surface (backed out with sparse isolated data points)
 📌 [Colab Link](https://colab.research.google.com/drive/1WVD2ET3w4F0ihNZdB7Kp-zXp77Pb8KfM#scrollTo=lqJAVkqpHZll)
 
 📌 [Github Link] ...
