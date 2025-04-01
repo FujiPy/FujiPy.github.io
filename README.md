@@ -25,7 +25,7 @@
 
 📌 [Github Link] ...
 
-### Stochastic Volatility Inspired (SVI) Implied Vol Curve/Surface (backed out with sparse isolated data points)
+### Stochastic Volatility Inspired (SVI) Implied Vol Curve/Surface (backed out with sparse strike, DTE, & IV data points)
 📌 [Colab Link](https://colab.research.google.com/drive/1WVD2ET3w4F0ihNZdB7Kp-zXp77Pb8KfM#scrollTo=lqJAVkqpHZll)
 
 📌 [Github Link] ...
