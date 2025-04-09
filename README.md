@@ -11,7 +11,7 @@
 📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
 
 ### Sector Update: 
-...
+📌 [View Slides](https://docs.google.com/presentation/d/15JY4g30agH_765e7iC0SBQVhKrQT8bZSgYZdIWQaoa4/edit#slide=id.g348290fa98b_1_10)
 
 ## 👨‍💻 Python Projects
 
