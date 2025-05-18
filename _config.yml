@@ -2,7 +2,7 @@ remote_theme: "pages-themes/slate@v0.2.0"
 
 title: "FujiPy: Python Projects and Financial Modeling Portfolio"
 description: >
-  This site is provides easy visuals and links to my finance 
+  This site provides easy visuals and links to my finance 
   and coding projects. 
 
 show_downloads: true  # Set to false if you don't want to show a download link.
