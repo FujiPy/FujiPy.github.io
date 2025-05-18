@@ -18,7 +18,7 @@
 ### Consumer Confidence Index & Key Economic Indicator EDA
 📌 [Colab Link](https://colab.research.google.com/drive/1alSV_3-VFLD12ETLfrwARU-EuyfowSSo?usp=sharing)
 
-📌 [Github Link] ...
+📌 [Github Link](https://github.com/FujiPy/CCI-and-Key-Economic-Indicators/blob/main/CCIMarkdown.md)
 
 
 ### News Article Sentiment Analyzer  
