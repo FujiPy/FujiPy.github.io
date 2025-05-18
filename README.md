@@ -15,8 +15,11 @@
 
 ## 👨‍💻 Python Projects
 
-### Lagging (high timeframe) & Live Rolling (short TF, with live free API data) SPY Regime Classification
-📌 [Colab Link](https://colab.research.google.com/drive/1MiTsEXMZTPUgT_tEIwbfGPbp9wO-pwhc#scrollTo=TlO_M9fLFn4L)
+### Consumer Confidence Index & Key Economic Indicator EDA
+📌 [Colab Link](https://colab.research.google.com/drive/1alSV_3-VFLD12ETLfrwARU-EuyfowSSo?usp=sharing)
+
+📌 [Github Link] ...
+
 
 ### News Article Sentiment Analyzer  
 🔍 **Scrapes, parses, and scores online news articles for positive/negative sentiment using a keyword search function.**  
@@ -29,6 +32,9 @@
 📌 [Colab Link](https://colab.research.google.com/drive/1WVD2ET3w4F0ihNZdB7Kp-zXp77Pb8KfM#scrollTo=lqJAVkqpHZll)
 
 📌 [Github Link] ...
+
+### Lagging (high timeframe) & Live Rolling (short TF, with live free API data) SPY Regime Classification
+📌 [Colab Link](https://colab.research.google.com/drive/1MiTsEXMZTPUgT_tEIwbfGPbp9wO-pwhc#scrollTo=TlO_M9fLFn4L)
 
 ### EDA: Graduate School Acceptance Probability Data
 📌 [Colab Link](https://colab.research.google.com/drive/1uOIwEHC51-up8CiFGOz5P4P5Jn8rtCiz)      
