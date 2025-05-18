@@ -56,6 +56,7 @@
 ### 🚧 More projects coming soon...
 
 **Current Focus:** Portfolio management tools & software development
+
 **Skills:** Financial research and modeling, Python, R, SQL programming, Data Analysis, Machine Learning, Asset Pricing, Algorithmic Trading Strategies 
 
 **Contact:** [Email](mailto: fujimorm@lafayette.edu) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
