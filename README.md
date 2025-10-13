@@ -1,13 +1,13 @@
 # Max Fujimori's Portfolio
 
 ### Relevant Links  
-🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1NT6Ydmdnngg8T_gO_Mcc06L559bciQC2uOTAZLOz18s/edit?usp=share_link) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
+🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1anRCZzjkkN2MkTPAZOZQ8xz_xtT2_FIoVIIVuauoaqo/edit?tab=t.0) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
 
 ---
 
 ---
 ## 📈Investment Club Presentations
-### MP Materials Buy Pitch
+### MP Materials Buy Pitch (~500% gain in <8 months)
 📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
 
 ### Consumer Discretionary Sector Update: 
