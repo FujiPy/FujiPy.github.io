@@ -7,7 +7,7 @@
 
 ---
 ## 📈Investment Club Presentations
-### MP Materials Buy Pitch (~500% gain in <8 months)
+### MP Materials Buy Pitch (~300% gain in <8 months)
 📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
 
 ### Consumer Discretionary Sector Update: 
@@ -36,11 +36,6 @@
 ### Lagging (high timeframe) & Live Rolling (short TF, with live free API data) SPY Regime Classification
 📌 [Colab Link](https://colab.research.google.com/drive/1MiTsEXMZTPUgT_tEIwbfGPbp9wO-pwhc#scrollTo=TlO_M9fLFn4L)
 
-### Comparing Derivative Pricing Models & Stat Arb Notes (*in progress)
-📌 [Colab link](https://colab.research.google.com/drive/1J7zux1CI5HSA0R-IVZ5fhjxYIO_4A-_f?usp=sharing)
-
-📌 [Github Link] ...
-
 ---
 ## Financial Models
 
@@ -57,7 +52,7 @@
 
 **Current Focus:** Portfolio management tools & software development
 
-**Skills:** Financial research and modeling, Python, R, SQL programming, Data Analysis, Machine Learning, Asset Pricing, Algorithmic Trading Strategies 
+**Skills:** Equity and Credit research and modeling, Python, R, SQL programming, Data Analysis, Machine Learning, Asset Pricing
 
 **Contact:** [Email](mailto: fujimorm@lafayette.edu) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
 
