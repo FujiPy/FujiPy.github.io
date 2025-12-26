@@ -16,7 +16,7 @@
 ---
 
 ## 📄 Substack Economics & Finance Posts
-📌[Article Link](https://substack.com/@maxfujimori)
+📌[NASDAQ Push for Extended Hours Article Link](https://substack.com/@maxfujimori)
 
 ---
 
