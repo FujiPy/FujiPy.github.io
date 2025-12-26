@@ -1,7 +1,7 @@
 # Max Fujimori's Portfolio
 
 ### Relevant Links  
-🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1Bp28PHWrxsnDv3v515Iut9XuXuI_iuFrD7c0vVc1gsU/edit?tab=t.0) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
+🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1Bp28PHWrxsnDv3v515Iut9XuXuI_iuFrD7c0vVc1gsU/edit?tab=t.0) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/) | 🔗 [Substack](https://substack.com/@maxfujimori)
 
 ---
 
@@ -12,6 +12,9 @@
 
 ### Consumer Discretionary Sector Update: 
 📌 [View Slides](https://docs.google.com/presentation/d/15JY4g30agH_765e7iC0SBQVhKrQT8bZSgYZdIWQaoa4/edit#slide=id.g348290fa98b_1_10)
+
+## 📄 Substack Economics & Finance Posts
+📌[Article Link](https://substack.com/@maxfujimori)
 
 ## 👨‍💻 Python Projects
 
