@@ -13,8 +13,12 @@
 ### Consumer Discretionary Sector Update: 
 📌 [View Slides](https://docs.google.com/presentation/d/15JY4g30agH_765e7iC0SBQVhKrQT8bZSgYZdIWQaoa4/edit#slide=id.g348290fa98b_1_10)
 
+---
+
 ## 📄 Substack Economics & Finance Posts
 📌[Article Link](https://substack.com/@maxfujimori)
+
+---
 
 ## 👨‍💻 Python Projects
 
