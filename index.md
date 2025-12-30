@@ -10,7 +10,7 @@
 ---
 ## Overview:
 
-##### I am an Economics & Data Science Student at Lafayette College, focused on financial markets, quantitative research, and applied modeling. My work spans equity valuation, macroeconomic analysis, and data-driven investment research. I am interested in asset management, S&T, and market research roles.
+I am an Economics & Data Science Student at Lafayette College, focused on financial markets, quantitative research, and applied modeling. My work spans equity valuation, macroeconomic analysis, and data-driven investment research. I am interested in asset management, S&T, and market research roles.
 
 ---
 
