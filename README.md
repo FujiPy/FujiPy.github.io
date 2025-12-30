@@ -25,7 +25,7 @@
 ### MTX Discounted Cash Flow (DCF) Model
 📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/IQBp0F1jTn5AQ6L3P-LN6om5AWo3ML0gjWaahwbXeIhwIBo?e=xjHUhf)
 
-### ASPI Projected Growth Model
+### ASPI (Pre-profitability) Projected Growth Model
 📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/EXn4dUVzSDRAskD6e9dJbTMBZ7ErXwmVa6IYW9oc8A5lwQ?e=AgpsEP)
 
 
