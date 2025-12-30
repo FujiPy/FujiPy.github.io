@@ -1,11 +1,88 @@
----
----
 
 @import "{{ site.theme }}";
 
-/* Custom width for portfolio */
+/* ========================
+   PAGE LAYOUT
+======================== */
+
+/* Widen main content area */
 .page-content {
-  max-width: 800px;
-  margin: 10 auto;
-  padding: 2rem;
+  max-width: 1400px;   /* adjust wider if needed */
+  margin: 0 auto;
+  padding: 2rem 3rem;
+}
+
+/* Adjust headings spacing */
+h1, h2, h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+/* Paragraph readability */
+p, li {
+  line-height: 1.6;
+}
+
+/* ========================
+   LISTS & INDENTATION
+======================== */
+
+/* Nested lists spacing */
+ul ul, ol ul, ul ol, ol ol {
+  margin-left: 2rem;
+}
+
+/* Optional bullet style for clarity */
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+/* ========================
+   CODE BLOCKS & TABLES
+======================== */
+
+/* Code blocks: allow horizontal scrolling */
+pre, code {
+  max-width: 100%;
+  overflow-x: auto;
+  font-size: 0.95rem;
+}
+
+/* Tables: full width */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+/* ========================
+   MISC CLEANUP
+======================== */
+
+/* Links: subtle hover effect */
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Images: responsive */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
 }
