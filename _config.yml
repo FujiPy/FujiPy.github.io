@@ -22,5 +22,5 @@ styles:
   text-overflow: "ellipsis"
 
 include: ["Assets/github/workflows/Assets"]
-include: [
+include: ["assets/css/style.scss"]
   
