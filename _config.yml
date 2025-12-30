@@ -1,9 +1,9 @@
 remote_theme: "pages-themes/slate@v0.2.0"
 
-title: "FujiPy: Python Projects and Financial Modeling Portfolio"
+title: "Financial Modeling & Analytics Portfolio "
 description: >
-  This site provides easy visuals and links to my finance 
-  and coding projects. 
+  This site provides links to my finance
+  and programming projects. 
 
 show_downloads: true  # Set to false if you don't want to show a download link.
 
@@ -23,5 +23,7 @@ styles:
 
 include: ["Assets/github/workflows/Assets"]
 
- 
+.page-content {
+  max-width: 1200px;
+}
   
