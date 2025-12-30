@@ -1,6 +1,6 @@
 # Max Fujimori (Lafayette College '27)
 
-**Contact:** [Email](mailto: fujimorm@lafayette.edu)
+**Contact:** [fujimorm@lafayette.edu](mailto: fujimorm@lafayette.edu)
 
 #### Economics & Data Science | Financial Markets | Macro & Quantitative Research
  
