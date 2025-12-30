@@ -3,19 +3,9 @@
 
 @import "{{ site.theme }}";
 
-/* Widen main content */
+/* Custom width for portfolio */
 .page-content {
   max-width: 1300px;
   margin: 0 auto;
   padding: 2rem;
 }
-
-pre, code {
-  max-width: 100%;
-  overflow-x: auto;
-}
-
-table {
-  width: 100%;
-}
-
