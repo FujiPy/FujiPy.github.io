@@ -1,13 +1,13 @@
 # Max Fujimori's Portfolio
 
-## Economics & Data Science | Financial Markets | Quantitative Research
+#### Economics & Data Science | Financial Markets | Quantitative Research
  
-## 🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1Bp28PHWrxsnDv3v515Iut9XuXuI_iuFrD7c0vVc1gsU/edit?tab=t.0) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/) | 🔗 [Substack](https://substack.com/@maxfujimori)
+#### 🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1Bp28PHWrxsnDv3v515Iut9XuXuI_iuFrD7c0vVc1gsU/edit?tab=t.0) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/) | 🔗 [Substack](https://substack.com/@maxfujimori)
 
 ---
 ## Overview:
 
-#### I am an Economics & Data Science Student at Lafayette College, focused on financial markets, quantitative research, and applied modeling. My work spans equity valuation, macroeconomic analysis, and data-driven investment research. I am interested in asset management, S&T, and market research roles.
+##### I am an Economics & Data Science Student at Lafayette College, focused on financial markets, quantitative research, and applied modeling. My work spans equity valuation, macroeconomic analysis, and data-driven investment research. I am interested in asset management, S&T, and market research roles.
 ---
 ## Investment Research & Presentations
 ### MP Materials (NYSE) Buy Pitch 
