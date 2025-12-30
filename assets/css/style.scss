@@ -3,76 +3,31 @@
 
 @import "{{ site.theme }}";
 
-/* ========================
-   PAGE LAYOUT
-======================== */
-
-/* Widen main content */
-.page-content,
-.main-content,
-.wrapper {
-  max-width: 1400px !important;   /* Wider page */
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
+// Increase margins and center content
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 40px;
 }
 
-/* ========================
-   HEADINGS & TEXT
-======================== */
-h1, h2, h3 {
-  margin-top: 1.5rem;
-  margin-bottom: 0.75rem;
-  line-height: 1.2;
+// If using default layout
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 3rem;
 }
 
-p, li {
-  line-height: 1.6;
+// Center text in main content areas
+body {
+  text-align: center;
 }
 
-/* ========================
-   LISTS & INDENTATION
-======================== */
-ul ul, ol ul, ul ol, ol ol {
-  margin-left: 2rem;
-}
-
-/* ========================
-   CODE BLOCKS & TABLES
-======================== */
-pre, code {
-  max-width: 100%;
-  overflow-x: auto;
-  font-size: 0.95rem;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-th, td {
-  padding: 0.5rem 0.75rem;
-  border: 1px solid #ddd;
+// Keep paragraphs and lists left-aligned for readability
+p, ul, ol, li {
   text-align: left;
 }
 
-/* ========================
-   LINKS & IMAGES
-======================== */
-a {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1rem auto;
+// Center headings
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
 }
