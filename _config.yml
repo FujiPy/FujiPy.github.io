@@ -9,18 +9,4 @@ show_downloads: true  # Set to false if you don't want to show a download link.
 
 google_analytics: "G-K5YB2DF124"  # Replace with your actual Google Analytics tracking ID.
 
-elements:
-  - "h1"
-  - "h2"
-  - "h3"
-  - "p"
 
-styles:
-  white-space: "nowrap"
-  text-align: "left"
-  overflow: "hidden"
-  text-overflow: "ellipsis"
-
-include: ["Assets/github/workflows/Assets"]
-include: ["assets/css/style.scss"]
-  
