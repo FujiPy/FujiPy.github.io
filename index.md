@@ -1,4 +1,4 @@
-# Max Fujimori's Portfolio
+# Max Fujimori (Lafayette College '27)
 
 #### Economics & Data Science | Financial Markets | Macro & Quantitative Research
  
