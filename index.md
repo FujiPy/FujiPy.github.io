@@ -1,5 +1,7 @@
 # Max Fujimori (Lafayette College '27)
 
+**Contact:** [Email](mailto: fujimorm@lafayette.edu)
+
 #### Economics & Data Science | Financial Markets | Macro & Quantitative Research
  
 #### 🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1Bp28PHWrxsnDv3v515Iut9XuXuI_iuFrD7c0vVc1gsU/edit?tab=t.0) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/) | 🔗 [Substack](https://substack.com/@maxfujimori)
@@ -98,7 +100,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-commodity futures, futures options
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-FX
-
-**Contact:** [Email](mailto: fujimorm@lafayette.edu) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
 
 ---
