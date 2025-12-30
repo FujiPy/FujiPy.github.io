@@ -1,12 +1,14 @@
 # Max Fujimori's Portfolio
 
-### Relevant Links  
+### 
 🔗 [GitHub Profile](https://github.com/FujiPy) | 📄 [Resume](https://docs.google.com/document/d/1Bp28PHWrxsnDv3v515Iut9XuXuI_iuFrD7c0vVc1gsU/edit?tab=t.0) | 🔗 [LinkedIn](https://www.linkedin.com/in/max-fujimori/) | 🔗 [Substack](https://substack.com/@maxfujimori)
 
 ---
+## Overview:
 
+### I am an Economics & Data Science Student at Lafayette College, focused on financial markets, quantitative research, and applied modeling. My work spans equity valuation, macroeconomic analysis, and data-driven investment research. I am interested in asset management, S&T, and market research roles.
 ---
-## 📈Investment Club Presentations
+## Investment Research & Presentations
 ### MP Materials (NYSE) Buy Pitch 
 📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
 
@@ -15,7 +17,8 @@
 
 ---
 
-## 📄 Substack Economics & Finance Posts
+## Writing & Research
+### Substack Economics & Finance Posts
 📌[NASDAQ Push for Extended Hours Article Link](https://substack.com/@maxfujimori)
 
 
@@ -31,7 +34,7 @@
 
 ---
 
-## 👨‍💻 Python Projects
+## Python & Quantitative Projects
 
 ### Consumer Confidence Index & Key Economic Indicator EDA
 📌 [Colab Link](https://colab.research.google.com/drive/1alSV_3-VFLD12ETLfrwARU-EuyfowSSo?usp=sharing)
@@ -51,15 +54,28 @@
 
 📌 [Github Link] ...
 
-### Lagging (high timeframe) & Live Rolling (short TF, with live free API data) SPY Regime Classification
+### Market Regime Classification
 📌 [Colab Link](https://colab.research.google.com/drive/1MiTsEXMZTPUgT_tEIwbfGPbp9wO-pwhc#scrollTo=TlO_M9fLFn4L)
 
 ---
 ### 🚧 More projects coming soon...
 
-**Current Focus:** Portfolio management tools & software development
+**Current Projects:** 
+-Portfolio optimization and risk modeling
 
-**Skills:** Equity and Credit research and modeling, Python, R, SQL programming, Data Analysis, Machine Learning, Asset Pricing
+**Skills:** 
+
+-Equity and Credit research and financial modeling
+
+-Python/R/Stata/SQL programming, Data Analytics and Machine Learning
+
+-Trade strategy development and  structuring, risk modeling and management
+
+    -equities and ETF's, equity options
+  
+    -commodity futures, futures options
+  
+    -FX
 
 **Contact:** [Email](mailto: fujimorm@lafayette.edu) or [LinkedIn](https://www.linkedin.com/in/max-fujimori/)
 
