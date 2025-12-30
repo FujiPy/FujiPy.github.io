@@ -18,6 +18,17 @@
 ## 📄 Substack Economics & Finance Posts
 📌[NASDAQ Push for Extended Hours Article Link](https://substack.com/@maxfujimori)
 
+
+---
+## Financial Models
+
+### MTX Discounted Cash Flow Model
+📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/IQBp0F1jTn5AQ6L3P-LN6om5AWo3ML0gjWaahwbXeIhwIBo?e=xjHUhf)
+
+### ASPI Projected Growth Model
+📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/EXn4dUVzSDRAskD6e9dJbTMBZ7ErXwmVa6IYW9oc8A5lwQ?e=AgpsEP)
+
+
 ---
 
 ## 👨‍💻 Python Projects
@@ -42,17 +53,6 @@
 
 ### Lagging (high timeframe) & Live Rolling (short TF, with live free API data) SPY Regime Classification
 📌 [Colab Link](https://colab.research.google.com/drive/1MiTsEXMZTPUgT_tEIwbfGPbp9wO-pwhc#scrollTo=TlO_M9fLFn4L)
-
----
-## Financial Models
-
-### ASPI Projected Growth Model
-📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/EXn4dUVzSDRAskD6e9dJbTMBZ7ErXwmVa6IYW9oc8A5lwQ?e=AgpsEP)
-
-### CRM x ORCL DCF Model (*in progress/incomplete)
-📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/EZ345MU892RBs5gfgvYxSRkB3nDcEHMjVQjXR02HIioE3g?e=Lj3XHj)
-
-
 
 ---
 ### 🚧 More projects coming soon...
