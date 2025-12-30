@@ -1,5 +1,9 @@
 title: "Financial Modeling & Analytics Portfolio"
 
+# Optional: remove repo title from header
+
+header: false
+
 theme: jekyll-theme-cayman
 
 description: >
