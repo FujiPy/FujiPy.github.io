@@ -22,8 +22,5 @@ styles:
   text-overflow: "ellipsis"
 
 include: ["Assets/github/workflows/Assets"]
-
-.page-content {
-  max-width: 1200px;
-}
+include: [
   
