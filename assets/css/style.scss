@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Widen main content */
+.page-content {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 2rem;
+}
