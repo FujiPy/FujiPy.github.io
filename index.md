@@ -1,4 +1,5 @@
-# Max Fujimori (Lafayette College '27)
+# Financial Modeling & Analytics Portfolio
+## Max Fujimori (Lafayette College '27)
 
 **Contact:** [fujimorm@lafayette.edu](mailto: fujimorm@lafayette.edu)
 
