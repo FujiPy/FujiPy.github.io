@@ -27,8 +27,9 @@ I am an Economics & Data Science Student at Lafayette College, focused on financ
 
 ## Writing & Research
 ### Substack Economics & Finance Posts
-📌[NASDAQ Push for Extended Hours Article Link](https://substack.com/@maxfujimori)
+📌[NASDAQ Push for Extended Hours](https://substack.com/@maxfujimori)
 
+📌[January FOMC Meeting Analysis and Forecasts](https://open.substack.com/pub/maxfujimori/p/analysis-ahead-of-januarys-fomc-meeting?utm_campaign=post-expanded-share&utm_medium=web)
 
 ---
 
