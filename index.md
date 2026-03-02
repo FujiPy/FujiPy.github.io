@@ -14,6 +14,21 @@
 I am an Economics & Data Science Student at Lafayette College, focused on financial markets, quantitative research, and applied modeling. My work spans equity valuation, macroeconomic analysis, and data-driven market research. I am interested in roles that combine analytics and client interface.
 
 ---
+## Public Websites & Dashboards
+📌[Commodities Dashboard](https://commoditiesdashboard.netlify.app/)
+
+---
+
+
+## Writing & Research
+### Substack Economics & Finance Posts
+📌[Presidents Day Equity Market Update](https://open.substack.com/pub/maxfujimori/p/presidents-day-equity-market-update?r=515jbc&utm_campaign=post&utm_medium=web)
+
+📌[Precious Metals Market Update](https://open.substack.com/pub/maxfujimori/p/precious-metals-update?r=515jbc&utm_campaign=post&utm_medium=web)
+
+📌[January FOMC Meeting Analysis and Forecasts](https://open.substack.com/pub/maxfujimori/p/analysis-ahead-of-januarys-fomc-meeting?utm_campaign=post-expanded-share&utm_medium=web)
+
+---
 
 ## Investment Research & Presentations
 ### MP Materials (NYSE) Buy Pitch 
@@ -25,16 +40,7 @@ I am an Economics & Data Science Student at Lafayette College, focused on financ
 ---
 
 
-## Writing & Research
-### Substack Economics & Finance Posts
-📌[NASDAQ Push for Extended Hours](https://substack.com/@maxfujimori)
-
-📌[January FOMC Meeting Analysis and Forecasts](https://open.substack.com/pub/maxfujimori/p/analysis-ahead-of-januarys-fomc-meeting?utm_campaign=post-expanded-share&utm_medium=web)
-
----
-
-
-## Financial Models
+## Excel Financial Models
 
 ### MTX Discounted Cash Flow (DCF) Model
 📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/IQBp0F1jTn5AQ6L3P-LN6om5AWo3ML0gjWaahwbXeIhwIBo?e=xjHUhf)
@@ -86,15 +92,18 @@ I am an Economics & Data Science Student at Lafayette College, focused on financ
 
 **Current Projects:** 
 
--Portfolio optimization and risk modeling
+- Equity Options and Warrant Pricers
+
+- Refining Commodities Dashboard Website
+
 
 **Skills:** 
 
--Equity and Credit research and financial modeling
+-Equity, Credit, and Commodities research and financial modeling
 
 -Python/R/Stata/SQL programming, Data Analytics and Machine Learning
 
--Trade strategy development and  structuring, risk modeling and management
+-Trading strategy development and structuring, risk modeling and management
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-equities and ETF's, equity options
   
