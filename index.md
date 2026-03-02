@@ -11,7 +11,7 @@
 ---
 ## Overview:
 
-I am an Economics & Data Science Student at Lafayette College, focused on financial markets, quantitative research, and applied modeling. My work spans equity valuation, macroeconomic analysis, and data-driven market research. I am interested in roles that combine analytics and client interface.
+I am an Economics & Data Science Student at Lafayette College, with a passion for energy, commodity, and equity markets. I enjoy quantitative research and applied modeling. My work spans UI programming, equity valuation, macroeconomic analysis, and data-driven market research. I am interested in roles that combine analytics and decision making.
 
 ---
 ## Public Websites & Dashboards
