@@ -15,18 +15,18 @@ I am an Economics & Data Science Student at Lafayette College, with a passion fo
 
 ---
 ## Public Websites & Dashboards
-📌[Commodities Dashboard](https://commoditiesdashboard.netlify.app/)
+📌 [Commodities Dashboard](https://commoditiesdashboard.netlify.app/)
 
 ---
 
 
 ## Writing & Research
 ### Substack Economics & Finance Posts
-📌[Presidents Day Equity Market Update](https://open.substack.com/pub/maxfujimori/p/presidents-day-equity-market-update?r=515jbc&utm_campaign=post&utm_medium=web)
+📌 [Presidents Day Equity Market Update](https://open.substack.com/pub/maxfujimori/p/presidents-day-equity-market-update?r=515jbc&utm_campaign=post&utm_medium=web)
 
-📌[Precious Metals Market Update](https://open.substack.com/pub/maxfujimori/p/precious-metals-update?r=515jbc&utm_campaign=post&utm_medium=web)
+📌 [Precious Metals Market Update](https://open.substack.com/pub/maxfujimori/p/precious-metals-update?r=515jbc&utm_campaign=post&utm_medium=web)
 
-📌[January FOMC Meeting Analysis and Forecasts](https://open.substack.com/pub/maxfujimori/p/analysis-ahead-of-januarys-fomc-meeting?utm_campaign=post-expanded-share&utm_medium=web)
+📌 [January FOMC Meeting Analysis and Forecasts](https://open.substack.com/pub/maxfujimori/p/analysis-ahead-of-januarys-fomc-meeting?utm_campaign=post-expanded-share&utm_medium=web)
 
 ---
 
