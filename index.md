@@ -31,8 +31,11 @@ I am an Economics & Data Science Student at Lafayette College, with a passion fo
 ---
 
 ## Investment Research & Presentations
-### MP Materials (NYSE) Buy Pitch 
+### MP Materials (NYSE: MP) Buy Pitch 
 📌 [View Slides](https://docs.google.com/presentation/d/1hUOdSYlTGNINMqDLUVhb_I0IWWQyggBH2cTw50WzLyI/edit#slide=id.g3349dd280dc_0_0)
+
+### Philip Morris International (NYSE: PM) Buy Pitch
+📌 [View Slides](https://docs.google.com/presentation/d/17seNe3aWXzOdzLeox4-glwc82oHgIZFviblFurSkqYc/edit?usp=sharing)
 
 ### Consumer Discretionary Sector Update: 
 📌 [View Slides](https://docs.google.com/presentation/d/15JY4g30agH_765e7iC0SBQVhKrQT8bZSgYZdIWQaoa4/edit#slide=id.g348290fa98b_1_10)
