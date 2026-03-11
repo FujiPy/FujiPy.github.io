@@ -42,6 +42,9 @@ I am an Economics & Data Science Student at Lafayette College, with a passion fo
 
 ## Excel Financial Models
 
+### CME 3mo SOFR Futures Curve Bootstrap (Implied Forward & Zero Rates)
+📌 [Excel Workbook Link](https://1drv.ms/x/c/1d67264760604503/IQA9YTyWc7UFSY54zEaUDkP8AX08F6agEHnW7LPdeIhXsTc)
+
 ### MTX Discounted Cash Flow (DCF) Model
 📌 [Excel Workbook Link](https://lafayette0-my.sharepoint.com/:x:/g/personal/fujimorm_lafayette_edu/IQBp0F1jTn5AQ6L3P-LN6om5AWo3ML0gjWaahwbXeIhwIBo?e=xjHUhf)
 
